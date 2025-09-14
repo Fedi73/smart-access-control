@@ -23,3 +23,4 @@ ESP32, C++, Altium Designer, SPIFFS, 3D Printing
 - Implemented secure firmware for UID storage
 - Created 3D-printed protective housing
 
+

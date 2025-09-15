@@ -15,8 +15,7 @@ ESP32, C++, Altium Designer, SPIFFS, 3D Printing
 
 ### Media
 - 📸 PCB Design: ![PCB](screenshots/PCB_2D.jpg)
-- 🎥 [Demo Video (YouTube)](https://youtu.be/xxxx)  
-  *(~2min prototype showcase with working firmware)*
+- 🎥 [Demo Video (YouTube)](https://youtu.be/zNyhaNSwHZ0)  
 
 ### Contributions
 - Designed and tested hardware system with RFID
